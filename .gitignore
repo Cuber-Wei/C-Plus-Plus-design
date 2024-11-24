@@ -1,4 +1,7 @@
 data/
+EXEs/
+
 .vscode/
-.EXEs/
 .idea/
+
+cmake-build-debug/

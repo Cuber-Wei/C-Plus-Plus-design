@@ -1,7 +1,6 @@
 #include <iostream>
 #include <fstream>
 #include <string>
-#include "2048.h"
 #include "AccountManage.h"
 #include "LogIn.h"
 #include "Maze.h"
